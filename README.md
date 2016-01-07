@@ -1,5 +1,5 @@
 # Run
-`docker run -it -p 8047:8047 -v `pwd`:/data dschien/drill`
+`docker run -it -p 8047:8047 -v $(pwd):/data dschien/drill`
 
 # Operation
 ## set default fs for local operation
